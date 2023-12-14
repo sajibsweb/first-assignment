@@ -1,6 +1,150 @@
-h1{
-    color: blue;
+.banner-part{
+    background: url(images/banner/banner2.png);
+    width: 1900px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    text-align: right;
 }
-h5{
-    color: red;
+.text-decorate-part{
+    padding-right: 100px;
+    padding-top: 260px;
+}
+.text-decorate-part h1{
+    font-size: 65px;    
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+}
+.text-decorate-part p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: rgb(24, 23, 23);
+
+}
+.text-decorate-part button{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    padding: 20px 25px 20px 25px ;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    margin-top: 32px;
+}
+.second-section{
+    display: flex;
+    padding-top: 100px;
+}
+.second-section-div-one img{
+    margin-left: 300px;
+}
+.text-section{
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+.text-section h1{
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    width: 288px;
+    font-family: 'Work Sans', sans-serif;
+}
+.text-section p{
+    font-size: 16px;
+    font-weight: 400;
+    width: 416px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+.tick-text{
+    display:flex; 
+    align-items: center;
+    max-height: fit-content;
+}
+
+.tick-text svg{
+    padding-right: 10px;
+}
+
+.tick-text-two{
+    display:flex; 
+    align-items: center;
+    max-height: fit-content;
+    margin-top: -20px;
+}
+
+.tick-text-two svg{
+    padding-right: 10px;
+}
+.tick-text-three{
+    display:flex; 
+    align-items: center;
+    max-height: fit-content;
+    margin-top: -20px;
+}
+
+.tick-text-three svg{
+    padding-right: 10px;
+}
+.tick-text-four{
+    display:flex; 
+    align-items: center;
+    max-height: fit-content;
+    margin-top: -20px;
+}
+
+.tick-text-four svg{
+    padding-right: 10px;
+}
+.tick-text-five{
+    display:flex; 
+    align-items: center;
+    max-height: fit-content;
+    margin-top: -20px;
+}
+
+.tick-text-five svg{
+    padding-right: 10px;
+}
+.my-plan-section{
+    display: inline-block;
+    text-align: center; 
+    padding-top: 100px; 
+}
+.my-plan-section h1{
+    font-size: 40px;    
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    margin-left: 400px;
+}
+.my-plan-section-div{
+    display: flex;
+    margin-left: 250px;
+}
+.my-plan-section-div div{
+    padding-left: 80px;
+}
+.my-plan-section-div div img{
+    width: 93px;
+    height: 93px;
+}
+.my-plan-section-div div h3{
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+.my-plan-section-div div p{
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    color: #737272;
 }
