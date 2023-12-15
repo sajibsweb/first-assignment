@@ -148,3 +148,152 @@
     font-weight: 500;
     color: #737272;
 }
+.second-banner{
+    background: url(images/watch.png);
+    width: 1140px;
+    height: 301px;
+    background-repeat: no-repeat;
+    margin-left: 290px;
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+.second-banner div{
+
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    width: 1140px;
+    height: 301px;
+    background-repeat: no-repeat;
+}
+.second-banner h1{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    width: 459px;
+    padding-left: 64px;
+    padding-top: 59px;
+}
+.second-banner button{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    margin-left: 64px;
+}
+.button-text{
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.contact-us-section h1{
+    font-size: 40px;    
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    margin-left: 290px;
+}
+.hero-brian{
+    display: flex;
+    margin-left: 290px;
+}
+.support-text{
+    margin-top: 100px;
+}
+.brian-image{
+    padding-left: 260px;
+}
+.hero-brian h1{
+    font-size: 40px;
+    font-weight: 700;
+    width: 288px;
+    font-family: 'Work Sans', sans-serif;
+    color: #355d96;
+}
+.hero-brian div button{
+width: 260px;
+height: 64px;
+border-radius: 5px;
+background: #016fff;
+padding: 10px 15px 10px 15px ;
+color: #FFF;
+font-size: 20px;
+font-weight: 600;
+border: none;
+margin-top: 12px;
+}
+.footer-class{
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    width: 1900px;
+    height: 601px;
+    margin-top: 120px;
+}
+.social-part{
+    display: flex;
+}
+.social-part img{
+    padding-right: 15px;
+
+}
+.future-div{
+    padding-left: 290px;
+    padding-top: 120px;
+}
+.footer-class div h1{
+font-size: 40px;
+font-weight: 700;
+width: 288px;
+font-family: 'Work Sans', sans-serif;
+color: #ffffff;   
+}
+.footer-class div p{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+    width: 485px;
+    
+}
+.footer-text-part{
+    padding-bottom: 20px;
+}
+.subscribe-part{
+    font-size: 25px;
+    font-weight: 600;
+    color: #ffffff; 
+    display: inline-block;
+    padding-left: 600px;
+    padding-top: 130px;
+}
+.subscribe-part div input{
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background:none;
+}
+.email-enter{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 21px;
+}
+.subscribe-buttona-text{
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 20px 36px 20px 36px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.subscribe-part button{
+    margin-top: 16px;
+}
